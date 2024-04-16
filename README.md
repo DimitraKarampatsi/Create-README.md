@@ -1,4 +1,4 @@
-# README.md
+# MyPhDstudies.md
 Playing with Mermaid
 ```mermaid
 mindmap
