@@ -5,7 +5,6 @@ mindmap
   root((PhD))
     Research Interphase Areas
       Ischemic Stroke
-        Stroke recovery
       Type 2 Diabetes
     Stroke Recovery
         My PhD Projects!
